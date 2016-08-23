@@ -12,6 +12,6 @@ Version: 0.0.0.9000
 Depends: R (>= 3.3.1)
 Imports: drat, devtools
 License: MIT + file LICENSE
-MD5sum: f047b5e6e472dc57d6729b01e8af96d0
+MD5sum: fba648fcdbe5f92861cd4f0fe9ecc78a
 NeedsCompilation: no
 
