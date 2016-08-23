@@ -4,7 +4,7 @@ Depends: R (>= 3.2.3)
 Imports: knitr, rmarkdown, htmlwidgets, digest, htmltools
 Suggests: testthat, networkD3
 License: MIT + file LICENSE
-MD5sum: a6ea5f853b9599393c944288f856c51e
+MD5sum: f61779a063f2331d382400731be4f859
 NeedsCompilation: no
 
 Package: travisDrat
