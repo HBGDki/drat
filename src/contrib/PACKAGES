@@ -6,7 +6,7 @@ Imports: dplyr, lattice, rbokeh (>= 0.5.0), ggplot2, mgcv, MASS,
         scales, crayon, stringdist
 Suggests: testthat, packagedocs, brokenstick (>= 0.49), face (>= 0.1-2)
 License: MIT + file LICENSE
-MD5sum: aa1547e60692fea69312b544a9718937
+MD5sum: f50a9308c6698cd93a42e4deaa51df26
 NeedsCompilation: no
 
 Package: lazyrmd
