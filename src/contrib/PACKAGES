@@ -1,3 +1,12 @@
+Package: growthstandards
+Version: 0.1.0
+Depends: R (>= 3.1)
+Imports: lattice, gamlss.dist, ggplot2, grid, rbokeh, dplyr
+Suggests: testthat, packagedocs
+License: MIT + file LICENSE
+MD5sum: 8d711402a72cb9110521561a5f7863f6
+NeedsCompilation: no
+
 Package: hbgd
 Version: 0.3.6
 Depends: R (>= 3.1), datadr (>= 0.8.1), trelliscope (>= 0.9.2)
@@ -25,4 +34,3 @@ Imports: drat, devtools
 License: MIT + file LICENSE
 MD5sum: 0f3758e8d1468870e81efcf0aa67032a
 NeedsCompilation: no
-
