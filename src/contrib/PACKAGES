@@ -2,9 +2,9 @@ Package: growthstandards
 Version: 0.1.0
 Depends: R (>= 3.1)
 Imports: lattice, gamlss.dist, ggplot2, grid, rbokeh, dplyr
-Suggests: testthat, packagedocs
+Suggests: testthat, lintr, packagedocs
 License: MIT + file LICENSE
-MD5sum: f4f461540df0046cbf44469fd7fd73ce
+MD5sum: 2470537fe94b263b181e7f71653c4033
 NeedsCompilation: no
 
 Package: hbgd
