@@ -4,7 +4,7 @@ Depends: R (>= 3.1)
 Imports: lattice, gamlss.dist, ggplot2, grid, rbokeh, dplyr
 Suggests: testthat, packagedocs
 License: MIT + file LICENSE
-MD5sum: 8d711402a72cb9110521561a5f7863f6
+MD5sum: f4f461540df0046cbf44469fd7fd73ce
 NeedsCompilation: no
 
 Package: hbgd
